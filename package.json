@@ -1,0 +1,19 @@
+{
+  "name": "LD-Test-Task",
+  "version": "1.0.0",
+  "description": "E-comm Test Server",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "express": "~4.0.0",
+    "jsonwebtoken": "^7.4.1",
+    "mongoose": "^4.10.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Haider Ali",
+  "license": "ISC"
+}
